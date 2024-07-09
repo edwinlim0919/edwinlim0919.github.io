@@ -21,14 +21,14 @@ repository               : "edwinlim0919.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "website_profile.png"
+  name             : "Edwin Lim"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "ECE PhD Student @ CMU"
+  location         : "Pittsburgh, PA"
+  employer         : "Carnegie Mellon University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "eglim@andrew.cmu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
