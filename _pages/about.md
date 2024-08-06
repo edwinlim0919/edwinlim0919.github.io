@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, nice to e-meet you! My name is Edwin Lim and I am currently a first-year Electrical and Computer Engineering PhD student working with [James Hoe](https://users.ece.cmu.edu/~jhoe/doku/doku.php) and [Akshitha Sriraman](https://users.ece.cmu.edu/~asrirama/) at CMU. My research interests lie at the intersection of computer systems and hardware, with a focus on making modern Machine Learning (ML) applications more efficient and sustainable. In particular, my most recent research evaluates the potential of second-life GPUs and geographically distributed workload scheduling for more sustinable ML inference.
+Hi, nice to e-meet you! My name is Edwin Lim and I am currently a first-year Electrical and Computer Engineering PhD student working with [James Hoe](https://users.ece.cmu.edu/~jhoe/doku/doku.php) and [Akshitha Sriraman](https://users.ece.cmu.edu/~asrirama/) at CMU. My research interests lie at the intersection of computer systems and hardware, with a focus on making modern Machine Learning (ML) applications more efficient and sustainable. Specifically, my most recent research evaluates the potential of second-life GPUs and geographically distributed workload scheduling for more sustainable ML inference.
 
-I completed my undergraduate studies in Electrical Engineering and Computer Science at UC Berkeley (class of 2023), where I worked with [Sagar Karandikar]()
+I completed my undergraduate studies in Electrical Engineering and Computer Science at UC Berkeley (class of 2023), where I was fortunate to work with [Sagar Karandikar](https://sagark.org/) and [Krste Asanović](https://people.eecs.berkeley.edu/~krste/) on research related to computer architecture within the [SLICE Lab](https://slice.eecs.berkeley.edu/). Here, I focused on enabling [multi-FPGA accelerated simulation of large-scale RTL designs](https://people.eecs.berkeley.edu/~ysshao/assets/papers/ISCA2024-FireAxe.pdf) and building [hardware (de)compression accelerators for hyperscale SoCs](https://slice.eecs.berkeley.edu/papers/cdpu-co-designing-compression-and-decompression-processing-units-for-hyperscale-systems/).
 
 Currently, I am on leave from my PhD to work at... (TBD)
 
