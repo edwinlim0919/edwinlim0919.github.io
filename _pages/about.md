@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi, nice to e-meet you! My name is Edwin Lim and I am currently a first-year PhD student working with [James Hoe](https://users.ece.cmu.edu/~jhoe/doku/doku.php) and [Akshitha Sriraman](https://users.ece.cmu.edu/~asrirama/). My research interests lie at the intersection of computer systems and hardware, with a focus on making modern Machine Learning applications more efficient and sustainable.
+Hi, nice to e-meet you! My name is Edwin Lim and I am currently a first-year Electrical and Computer Engineering PhD student working with [James Hoe](https://users.ece.cmu.edu/~jhoe/doku/doku.php) and [Akshitha Sriraman](https://users.ece.cmu.edu/~asrirama/) at CMU. My research interests lie at the intersection of computer systems and hardware, with a focus on making modern Machine Learning (ML) applications more efficient and sustainable. In particular, my most recent research evaluates the potential of second-life GPUs and geographically distributed workload scheduling for more sustinable ML inference.
+
+I completed my undergraduate studies in Electrical Engineering and Computer Science at UC Berkeley (class of 2023), where I worked with [Sagar Karandikar]()
+
+Currently, I am on leave from my PhD to work at... (TBD)
+
+The best way to reach me is through email at eglim [at] andrew [dot] cmu [dot] edu.
 
 A data-driven personal website
 ======
