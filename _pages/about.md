@@ -25,7 +25,7 @@ In general, I love working at the intersection of hardware and software to make 
 
 Non-Technical Interests
 ======
-I'm a very active person, and am in the process of figuring out the whole "work-life-balance" thing. Having a life outside of work is critical to my sanity, but it's easier said than done! Although I try not to fall into the "Tech Bro" stereotypes, sometimes it is unavoidable. At least I do not currently own any Patagonia clothing (as of August 2024). Some of the things I do in my free time are:
+I'm a very active person, and am in the process of figuring out the whole "work-life-balance" thing. Having a life outside of work is critical to my sanity, but it's easier said than done! Although I try not to fall into "Tech Bro" stereotypes, sometimes it is unavoidable. At least I do not currently own any Patagonia clothing (as of August 2024). Some of the things I do in my free time are:
 - Rock climbing (I like bouldering)
 - Weightlifting
 - Hiking
