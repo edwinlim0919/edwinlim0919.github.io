@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Feel free to take a look at my (currently) most up-to-date CV!
+Feel free to look at or download my (currently) most up-to-date Curriculum Vitae!
 
 <iframe src="{{ site.baseurl }}/files/CV_Summer_2024.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it: <a href="{{ site.baseurl }}/files/CV_Summer_2024.pdf">Download PDF</a>.
