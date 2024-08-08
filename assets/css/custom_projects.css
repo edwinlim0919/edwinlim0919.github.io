@@ -1,29 +1,29 @@
 /* Override default margins for project posts */
-.projects-container .archive__item {
+.projects-container div.archive__item {
   margin-bottom: 5px !important;
 }
 
-.projects-container .archive__item-title {
+.projects-container h2.archive__item-title {
   margin-bottom: 5px !important;
 }
 
-.projects-container .page__meta {
+.projects-container p.page__meta {
   margin-bottom: 5px !important;
 }
 
-.projects-container .page__date {
+.projects-container p.page__date {
   margin-bottom: 5px !important;
 }
 
-.projects-container .archive__item-excerpt {
+.projects-container p.archive__item-excerpt {
   margin-bottom: 5px !important;
 }
 
-.projects-container .archive__item-teaser img {
+.projects-container div.archive__item-teaser img {
   margin-bottom: 5px !important;
 }
 
 /* Additional selectors to ensure compactness */
-.projects-container .archive__item p {
+.projects-container div.archive__item p {
   margin-bottom: 5px !important;
 }
